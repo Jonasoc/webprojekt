@@ -1,0 +1,17 @@
+/* solange nichts weiter geschrieben wird,
+bekommst jedes div eine grüne Schrift */
+div{
+  color: green;
+}
+
+/* Hier wird die Klasse "blue" mit Hilfe eines
+Punktes davor aufgerufen */
+.blue{
+  color: blue;
+}
+
+/* Hier wird die ID "yellow" mit Hilfe einer
+Raute davor aufgerufen */
+#yellow{
+  color: yellow;
+}
